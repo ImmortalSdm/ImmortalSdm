@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Dianmo Sheng.
 - 👀 I’m interested in Deep learning and Computer Vision. Now mainly focus on visual in-context learning.
 - 🌱 I’m currently learning pretrained large multimodal models.
-- 💞️ I’m looking for research opportunity on Computer Vision or Data Science and plan to pursue my PhD in HK or Singapore in the future.
+- 💞️ I’m looking for research opportunity on Computer Vision or Data Science.
 - 📫 My email is dmsheng@mail.ustc.edu.cn.
